@@ -1,0 +1,18 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Foldit:wght@200;300;400;500;600&display=swap');
+
+  .titulos{
+    font-family: 'Foldit', cursive;
+    font-size: large;
+    font-style: oblique;
+    font-weight: 600;
+    color: blueviolet;
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+
+  }
+  .paragrafos{
+    color: blueviolet;
+
+  }
